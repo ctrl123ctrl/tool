@@ -1,6 +1,19 @@
 import requests , random , time
 from time import sleep
 
+pa = (1212)
+pasi = input("Enter Your Pass : ")
+if pasi == pa:
+    print("ok")
+else:
+    print("no")
+    exit()    
+mail = input("ENTER YOUR EMAIL : ")
+
+
+
+
+
 E = "\033[1;92m"
 H = "\033[1;93m"
 R = "\033[31;1m"
